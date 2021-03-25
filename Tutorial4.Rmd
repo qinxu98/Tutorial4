@@ -4,5 +4,5 @@ Author: "Rachel Xu"
 Date: "`r Sys.Date()`"
 Output: 
   bookdown::html_document2
-keep_md: true
+keep_md: yes
 ---
